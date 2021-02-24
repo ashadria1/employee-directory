@@ -15,6 +15,7 @@
 - [Tests](#Tests)
 - [Questions](#Questions)
 - [Links](#Links)
+- [Screenshots](#Screenshots)
 
 ## Description
 🔍 For this project, I have created an employee directory with React.  This project will require a user to break up their application's UI into components, manage component state, and respond to user events.
@@ -83,3 +84,8 @@ https://ashadria1.github.io/employee-directory/
 https://github.com/ashadria1/employee-directory
 
 
+## Screenshots
+
+
+![Screenshot of main page.](assets/Screenshot1.png?raw=true "Screenshot of main page.")
+<br />
